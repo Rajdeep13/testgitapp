@@ -34,7 +34,7 @@ end on
 type st_1 from statictext within w_helloworld
 integer x = 91
 integer y = 96
-integer width = 1225
+integer width = 1797
 integer height = 444
 integer textsize = -22
 integer weight = 400
@@ -44,7 +44,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Hello World From GitHub V3.1"
+string text = "Hello World From GitHub V3.2"
 boolean focusrectangle = false
 end type
 
