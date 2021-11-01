@@ -44,7 +44,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Hello World From GitHub V3.1"
+string text = "Hello World From GitHub V4.1"
 boolean focusrectangle = false
 end type
 
